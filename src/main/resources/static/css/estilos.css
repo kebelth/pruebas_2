@@ -1,0 +1,29 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 26 jun. 2022, 01:16:16
+    Author     : kebelth
+*/
+
+#rango{
+        height: 50%;
+        width: 85%;
+    
+    
+    
+}
+
+#encabezado{
+    position: absolute;
+    top: 0;
+    left:0;
+    height: 8%;
+    width: 100%;
+    
+}
+
+#encabezado h1{
+    display: inline;
+}
